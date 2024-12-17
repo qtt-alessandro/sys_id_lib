@@ -2,7 +2,6 @@ scikit-build
 numpy
 scipy
 control
-slycot
 future
 pytest
 casadi
